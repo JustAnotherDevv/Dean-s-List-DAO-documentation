@@ -10,7 +10,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: `Dean's List DAO s`,
   tagline: "beacon of community-driven feedback and Service DAO",
-  favicon: "img/favicon.ico",
+  favicon: "img/wSt1rNcNAQpDunYhy5tRpjyCxTw.webp",
 
   // Set the production url of your site here
   url: "https://your-docusaurus-site.example.com",
@@ -69,19 +69,34 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/wSt1rNcNAQpDunYhy5tRpjyCxTw.webp",
       navbar: {
         title: `Dean's List DAO`,
         logo: {
           alt: `Dean's List DAO logo`,
-          src: "img/logo.svg",
+          src: "img/wSt1rNcNAQpDunYhy5tRpjyCxTw.webp",
         },
         items: [
+          // {
+          //   type: "docSidebar",
+          //   sidebarId: "tutorialSidebar",
+          //   position: "left",
+          //   label: "Overview",
+          // },
           {
-            type: "docSidebar",
-            sidebarId: "tutorialSidebar",
+            to: "docs/Overview/intro",
+            label: "Overview",
             position: "left",
-            label: "About",
+          },
+          {
+            to: "/docs/Whitepaper/what-is-deans-dao",
+            label: "Whitepaper",
+            position: "left",
+          },
+          {
+            to: "docs/Governance%20Framework/governance-model",
+            label: "Governance",
+            position: "left",
           },
           { to: "/docs/Hire%20Us/hire", label: "Hire Us", position: "left" },
           { to: "/blog", label: "Blog", position: "left" },

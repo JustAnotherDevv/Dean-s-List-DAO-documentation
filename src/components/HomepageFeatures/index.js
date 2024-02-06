@@ -14,24 +14,22 @@ const FeatureList = [
     ),
   },
   {
-    title: "Our Citizenship Model",
+    title: "Feedback-driven development",
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
       <>
-        We are guided in our thinking by Dunbar's number which is the
-        theoretical limit to the amount of meaningful societal relationships
-        that one person can maintain. We do not intend to have more than 100
-        citizens.
+        We are Web3 power users giving feedback on user experience for your
+        protocol.
       </>
     ),
   },
   {
-    title: "The Business Visa Program",
+    title: "Sounds Captivating?",
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
       <>
-        The best way to get a feel of our Network State is to apply for a
-        Business Visa which allows you
+        We've been here for a while, made a couple friends along the way…and
+        would love to get to know you too!
       </>
     ),
   },

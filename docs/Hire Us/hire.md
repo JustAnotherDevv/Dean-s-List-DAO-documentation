@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Hire Us
+# Why Choose Dean's List?
 
 # Web3 Insights, Next-Level Success
 

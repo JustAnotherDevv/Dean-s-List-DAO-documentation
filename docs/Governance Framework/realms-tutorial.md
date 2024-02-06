@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Realms PLatform Tutorial
+# Realms PLatform
 
 ## Onboarding
 
