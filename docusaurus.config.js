@@ -53,6 +53,11 @@ const config = {
           editUrl:
             "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
+        // hire: {
+        //   sidebarPath: "./sidebars.js",
+        //   editUrl:
+        //     "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+        // },
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -78,6 +83,7 @@ const config = {
             position: "left",
             label: "About",
           },
+          { to: "/docs/Hire%20Us/hire", label: "Hire Us", position: "left" },
           { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/JustAnotherDevv/Dean-s-List-DAO-documentation",

@@ -9,13 +9,19 @@ Dean's List DAO Documentation built by [NevvDevv](https://github.com/JustAnother
 - Governance Framework ❌
 - Onboarding Manual ✅
 - Operational Guidelines ❌
-- Blog ❌
+- Blog ✅
+- 'Hire Us' section with information for potential business partners ❌
 
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
+
+```
+git clone https://github.com/JustAnotherDevv/Dean-s-List-DAO-documentation
+
+```
 
 ```
 $ yarn
