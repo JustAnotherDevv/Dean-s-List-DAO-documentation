@@ -7,6 +7,7 @@ Dean's List DAO Documentation built by [NevvDevv](https://github.com/JustAnother
 - DAO Overview ✅
 - Whitepaper ✅
 - Governance Framework ❌
+- Tokenomics ⏳
 - Onboarding Manual ✅
 - Operational Guidelines ❌
 - Blog ✅

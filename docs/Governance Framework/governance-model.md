@@ -2,10 +2,6 @@
 sidebar_position: 1
 ---
 
-# How Can You Join In
+# Service DAO Governance Model
 
-Interested in becoming one of us? The Dean's List DAO operates primarily through our Discord server. At present, there are only three ways to join:
-
-- Purchase a $DEAN Token from our Coinable Store
-- Purchase one of our NFTs on the secondary market or try your luck at one of our auctions.
-- Become a customer by purchasing one of our packages through our Coinable store.
+We believe that the speed at which a community can grow is correlated to its proposal time. That's why vote time threshold lasts only 24 hours. This allows our citizens to rapidly decide and evolve to new opportunities & challenges.

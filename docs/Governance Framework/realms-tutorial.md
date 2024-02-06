@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# How Can You Join In
+# Realms PLatform Tutorial
 
 Interested in becoming one of us? The Dean's List DAO operates primarily through our Discord server. At present, there are only three ways to join:
 
