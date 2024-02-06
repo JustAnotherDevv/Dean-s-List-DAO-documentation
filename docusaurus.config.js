@@ -97,12 +97,20 @@ const config = {
                 to: "/docs/intro",
               },
               {
-                label: "Introduction",
-                to: "/docs/Introduction/what-is-deans-dao",
+                label: "Whitepaper",
+                to: "/docs/Whitepaper/what-is-deans-dao",
               },
               {
-                label: "For Members",
-                to: "/docs/For%20Members/how-to-join",
+                label: "Onboarding Manual",
+                to: "/docs/Onboarding%20Manual/how-to-join",
+              },
+              {
+                label: "Governance Framework",
+                to: "/docs/Onboarding%20Manual/how-to-join",
+              },
+              {
+                label: "Operational Guidelines",
+                to: "/docs/Onboarding%20Manual/how-to-join",
               },
               {
                 label: "Network State Declaration",

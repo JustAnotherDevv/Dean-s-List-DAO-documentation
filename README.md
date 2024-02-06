@@ -1,3 +1,16 @@
+# About
+
+Dean's List DAO Documentation built by [NevvDevv](https://github.com/JustAnotherDevv) during Solana hackathon.
+
+## Features
+
+- DAO Overview ✅
+- Whitepaper ✅
+- Governance Framework ❌
+- Onboarding Manual ✅
+- Operational Guidelines ❌
+- Blog ❌
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.

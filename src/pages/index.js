@@ -19,9 +19,9 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/Introduction/what-is-deans-dao"
+            to="/docs/Whitepaper/what-is-deans-dao"
           >
-            Learn about key concepts
+            Read Our Whitepaper
           </Link>
         </div>
       </div>
