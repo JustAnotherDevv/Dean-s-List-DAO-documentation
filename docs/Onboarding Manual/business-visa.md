@@ -26,4 +26,4 @@ Right here 👇
 
 ## Claimed Your Business Visa NFT. What next?
 
-Congratulations! [Join our discord server](https://discord.gg/CYSY8vK45b)
+Congratulations! Now you can [join our discord server](https://discord.gg/CYSY8vK45b)
