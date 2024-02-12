@@ -26,7 +26,7 @@ Dean’s List will receive $10,000 for successfully completing this distribution
 - Updating the Solana Foundation monthly updates spreadsheet([here is an example](https://docs.google.com/spreadsheets/d/1XNpRIE6gTSPdyffvE9Vk-efmSZkqnr7U3dqmEfRONjc/edit#gid=0))
 - Coordinating the onchain votes and payments to grantees along with the milestones.
 
-## DecentraGrants: DAO Focused Grants
+## Progress
 
-First cycle of DecentraGrants will distribute pool of $5K to builders of DAO tooling.
-Read about the details or apply on [Stockpile](https://www.stockpile.so/round/DP3BdnRpvHJ9A6Grm23oLXh12puegLoS7BgSQvoripE8).
+- First cycle of DecentraGrants will distribute pool of $5K to builders of DAO tooling.
+  Read about the details or apply on [Stockpile](https://www.stockpile.so/round/DP3BdnRpvHJ9A6Grm23oLXh12puegLoS7BgSQvoripE8).

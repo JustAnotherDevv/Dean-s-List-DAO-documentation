@@ -2,15 +2,21 @@
 sidebar_position: 2
 ---
 
-# Realms PLatform
+# Realms Platform
 
 ## Onboarding
 
-DAO interface makes use of Realms. To open up our DAO page, click [here](https://medium.com/@deanmachine/wen-one-of-us-sir-deans-list-token-airdrop-9436d01bb447).
+Just like multiple different Solana projects, our DAO interface makes use of Realms.
+Open up [our DAO page](https://app.realms.today/dao/F9V4Lwo49aUe8fFujMbU6uhdFyDRqKY54WpzdpncUSk9) on their website.
 
-![initial Realms UI](image-5.png)
+![initial Realms UI](screenzy-1707716345435.png)
 
-After connecting with a wallet you should be able to see your voting power, option to create proposals, and vote in already existing ones.
+## Voting
+
+Remember to use correct account with your $DEAN tokens. After connecting with a wallet you should be able to see your voting power, option to create proposals, and vote in already existing ones.
+Casting your vote requires choosing `yes` or `no` and signing transaction to prove ownership of wllet and send information to the Blockchain. Your vote power is dependent on amount of tokens in your balance.
+
+![Casting a vote](screenzy-1707717467077.png)
 
 ## Historical Proposal Details
 
@@ -18,4 +24,4 @@ To view details of historical proposals, firstly choose one that you want to ins
 
 You'll be presented with detailed view and breakdown of votes on given proposal.
 
-![alt text](image-6.png)
+![alt text](screenzy-1707716805737.png)

@@ -9,9 +9,10 @@ Dean's List DAO Documentation built by [NevvDevv](https://github.com/JustAnother
 - Governance Framework ✅
 - Tokenomics ✅
 - Onboarding Manual ✅
-- Operational Guidelines ❌
+- Operational Guidelines ✅
 - Blog ✅
-- 'Hire Us' section with information for potential business partners ✅
+- `Hire Us` section with information for potential business partners ✅
+- Tutorial for governance voting on Realms ✅
 
 # Website
 
