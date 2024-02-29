@@ -7,6 +7,10 @@ sidebar_position: 4
 - [**Solana**](https://solana.com) - Scalable blockchain that uses a Proof-of-Stake (PoS) mechanism to
   provide ability to send Sol cryptocurrency and interact with deployed smart contracts.
 
+- **DAO** - Community-run entity with no central authority. Decisions are made collectively using blockchain technology and voting by token holders.
+
+- **Network State** - Highly aligned online community with shared values that aims to collectively act and govern itself.
+
 - [**Proof-of-Stake (PoS)**](https://www.blockchain-council.org/blockchain/proof-of-work-vs-proof-of-stake-beginners-guide/) -
   A PoS-system is one of many types of blockchain consensus that achieves verification by selecting
   validators in proportion to their quantity of holdings in the associated cryptocurrency. In case of

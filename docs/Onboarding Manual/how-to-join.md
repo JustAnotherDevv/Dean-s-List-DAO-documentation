@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # Our Citizenship Model
@@ -8,17 +8,14 @@ Here at Dean's List, we believe that the concept of communities with a large mem
 
 # How Can You Join In
 
-Interested in becoming one of us? The Dean's List DAO operates primarily through our Discord server. At present, there are only three ways to join:
+Interested in becoming one of us? The Dean's List DAO operates primarily through our Discord server. At present, these are available ways to join:
 
-- Purchase a **$DEAN** Token from our [Coinable Store](https://coinablepay.com/@deanslist/ozWxnDy7G7B2Mxw2LLia72).
-- Purchase one of our **NFTs** on the [secondary market](https://magiceden.io/marketplace/deanslist-) or try your luck at one of our auctions.
-- Become a customer by purchasing one of our packages through our [Coinable Store](https://coinablepay.com/@deanslist/ozWxnDy7G7B2Mxw2LLia72).
+- Get a [Business Visa](/docs/Onboarding%20Manual/business-visa).
+- Purchase one of our **NFTs** on the [secondary market](https://magiceden.io/marketplace/deanslist) or try your luck at one of our auctions.
 
 **NFT holders are the only full citizens of the Dean's List Network State.**
 
-### THERE IS NO OTHER WAY TO BECOME A CITIZEN!
-
-We want everyone that joins the DAO to do so through proof of work. As you earn more, you will get closer to becoming _"One of US"_
+We want everyone that joins the DAO to do so through proof of work. As you earn more, you will get closer to becoming **"One of US"**
 
 ### Full Citizens enjoy:
 

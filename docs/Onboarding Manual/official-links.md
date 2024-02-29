@@ -27,7 +27,10 @@ sidebar_position: 5
 - [Stake your DeansList NFT and earn $DEAN ](https://stake.diamondvaults.io/vault/Deanslist)
 - [Check our Analytics Dashboard](https://flipsidecrypto.xyz/jackguy/deans-list-data-dashboard-Pc14j7)
 - [On-chain voting on Realms](https://app.realms.today/dao/F9V4Lwo49aUe8fFujMbU6uhdFyDRqKY54WpzdpncUSk9)
-- [Squads 5/10 multi-sig](https://solscan.io/account/FAEYozsZVkxhXwG1HnVJn58Ks3dff31zjtA8b3KezFJ6)
 - [Web3 Store](https://store.deanslist.services/)
 - [Github](https://github.com/Dean-s-List)
 - [Dean's List Merch](https://streamlabs.com/whalesfriend/merch)
+
+## Resources:
+
+- [February 2024 Changes](https://medium.com/@TheDaoDad/the-deans-list-network-state-forging-ahead-a49b0b0fef1f)

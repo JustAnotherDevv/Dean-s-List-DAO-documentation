@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # Business Visa Program
@@ -24,6 +24,6 @@ Right here 👇
 
 [https://visa.deanslist.services/ ](https://visa.deanslist.services/)
 
-## Claimed Your Business Visa NFT. What next?
+## Claimed Your Business Visa?
 
 Congratulations! Now you can [join our discord server](https://discord.gg/CYSY8vK45b)

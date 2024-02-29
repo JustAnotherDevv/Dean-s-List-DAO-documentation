@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Manager Manual V 1.0
 
+![Manager Explained graph](Untitled-2024-02-29-1911.png)
+
 ## What is a Manager in Dean’s List?
 
 In the Dean’s List DAO, there are two distinct Manager roles. One oversees customer projects, ensuring timely and qualitative product delivery. The other plans and executes operations for our internal departments, optimizing organizational efficiency. Both roles are pivotal, one focused on client satisfaction and the other on internal processes for seamless operations.

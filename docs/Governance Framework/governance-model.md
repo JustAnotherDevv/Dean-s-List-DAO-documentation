@@ -10,8 +10,7 @@ Dean's List DAO operates on a unique token model called [Participation Tokens](/
 
 ## Governance Mechanism
 
-Instead of relying solely on token governance, the DAO utilizes a multi-sig reputation-based approach for governance polling.
-Community funds are managed across multiple multi-sig wallets, with sentiment voting conducted using $DEAN tokens. Multi-sig owners generally honor the majority and quorum in decision-making.
+Instead of relying solely on token governance, the DAO utilizes a multi-sig reputation-based approach for governance polling. This multi-sig is represented as a council consisting of most active and engaged community members. Community funds are managed across multiple multi-sig wallets, with sentiment voting conducted using $DEAN tokens. Multi-sig owners generally honor the majority and quorum in decision-making.
 
 ## Voting Rules
 
@@ -28,4 +27,7 @@ For more detailed voting instructions visit [Realms voting tutorial](/docs/Gover
 
 ## Treasury
 
-- Treasury address: `7A6CrNWAFFBpQTBRo5fULibqqB3MouNLgbVBf8D3MJAx`
+- Main Treasury: `7A6CrNWAFFBpQTBRo5fULibqqB3MouNLgbVBf8D3MJAx`
+- Community Reserve Treasury: `DY9NzNSbbDJk4NYXN2TBMkF8oBbZaq7UYSy3VzKcviNS`
+- Liquidity Reserve Treasury: `EZ3V9DRoUpewNyNTyG3ya7TiPwe27XGDCgFHgfXNprJX`
+- Strategic Reserve Treasury: `FThth1Uwkw1JJKMkKohpgiEshYKZojMpfhGHMf2rLZNR`

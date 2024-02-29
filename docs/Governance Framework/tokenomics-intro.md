@@ -9,8 +9,8 @@ sidebar_position: 3
 - **Token Name:** DEAN
 - **Token Symbol:** DEAN
 - **Token Type:** SPL Token
-- **Total Supply:** 75.000.000 Tokens
-- **Mint Authority:** Active
+- **Total Supply:** 100.000.000 Tokens
+- **Mint Authority:** Burned (15th February 2024)
 
 ## Token Allocation:
 
@@ -29,9 +29,10 @@ sidebar_position: 3
 - **Staking:** Although the DEAN tokens cannot be staked, one can stake their Dean’s List NFT. That will yield stakers 50 DEAN tokens per day.
 - **Governance:** Token Holders participate mostly in polling because the DAO keeps the majority of its funds in various multisig wallets managed by reputable members of the community.
 - **Burn Mechanism:** No burning mechanism exists. Yet, as users use DEAN tokens to buy-in their participation in various activities, a significant portion flows into the DAO’s treasury, effectively reducing the circulation.
+- **Participation** - Historically **$DEAN** has been used for participation in different kinds of services in the DAO.
 
 ## Roadmap:
 
-- **Development Phases:** The DAO is still debating on whether it’ll not burn the mint authority and keep increasing circulation.
+- **Development Phases:** As of February 15th 2024 the supply has been capped at 100M by minting additional 30M tokens and burning the mint authority.
 - **Partnerships:** The DAO actively seeks collaborations with ecosystem stakeholders to enhance utility for DEAN token holders.
 - **Liquidity Pools:** The DAO does not officially endorse the creation of liquidity pools for trading "DEAN" tokens. However, holders retain the autonomy to create and manage such pools at their discretion.
