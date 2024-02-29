@@ -4,6 +4,12 @@ sidebar_position: 3
 
 # How Do You Build A Digital Network State?
 
+:::warning
+
+This section content contain information from original Whitepaper whichc might not be fully up to date because of the DAO changes.
+
+:::
+
 The American playwright, Tennessee Williams, once wrote about the human condition as:
 
 _"It is a lonely idea, a lonely condition, so terrifying to think of that we usually don't. And so we talk to each other, write and wire each other, call each other short and long distance across land and sea, clasp hands with each other at meeting and at parting, fight each other and even destroy each other because of this always somewhat thwarted effort to break through walls to each other. As a character in a play once said, "We're all of us sentenced to solitary confinement inside our own skins."_

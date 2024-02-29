@@ -19,6 +19,7 @@ sidebar_position: 5
 - [Twitter](https://twitter.com/deanslistDAO)
 - [YouTube](https://www.youtube.com/@deanslistweb3)
 - [Twitch](https://www.twitch.tv/deanslistdao)
+- [DL Onboarding Discord](https://discord.gg/5j2FHKAXGh)
 
 ## Specific Links:
 

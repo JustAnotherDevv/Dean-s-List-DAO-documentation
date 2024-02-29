@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: `Dean's List DAO s`,
-  tagline: "beacon of community-driven feedback and Service DAO",
+  tagline: "Beacon of community-driven feedback and Service DAO",
   favicon: "img/wSt1rNcNAQpDunYhy5tRpjyCxTw.webp",
 
   // Set the production url of your site here

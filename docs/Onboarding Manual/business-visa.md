@@ -26,4 +26,18 @@ Right here 👇
 
 ## Claimed Your Business Visa?
 
-Congratulations! Now you can [join our discord server](https://discord.gg/CYSY8vK45b)
+Congratulations! Now:
+
+- Join the [DL Onboarding Server](https://discord.gg/5j2FHKAXGh)
+- [Verify](https://verify.deanslist.services/) yourself and start seeking out available work opportunities.
+- Connect your discord to the [DL Dash](https://dash.deanslist.services/).
+
+For more information about our feedback services, read [Operational Guidelines](/docs/Operational%20Guidelines/operations-intro).
+
+## Business Visa Improvement Proposal
+
+Business Visa Improvement Proposal(BVIP) was passed in February 2024, expected release timeline is March 2024. New features included in this proposal are:
+
+- Renewing visa with one button click.
+- Expiring user's visa by visa manager with a button click in case of a misconduct.
+- Uploading csv with wallet and earnings to update bv holders earning on NFT.

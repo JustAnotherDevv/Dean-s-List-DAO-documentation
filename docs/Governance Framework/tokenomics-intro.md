@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Core $DEAN Tokenomics
+# $DEAN Tokenomics
 
 ## Token Information:
 
@@ -31,8 +31,14 @@ sidebar_position: 3
 - **Burn Mechanism:** No burning mechanism exists. Yet, as users use DEAN tokens to buy-in their participation in various activities, a significant portion flows into the DAO’s treasury, effectively reducing the circulation.
 - **Participation** - Historically **$DEAN** has been used for participation in different kinds of services in the DAO.
 
-## Roadmap:
+## Tokenomics Changes:
 
-- **Development Phases:** As of February 15th 2024 the supply has been capped at 100M by minting additional 30M tokens and burning the mint authority.
-- **Partnerships:** The DAO actively seeks collaborations with ecosystem stakeholders to enhance utility for DEAN token holders.
-- **Liquidity Pools:** The DAO does not officially endorse the creation of liquidity pools for trading "DEAN" tokens. However, holders retain the autonomy to create and manage such pools at their discretion.
+In February 2024, the **$DEAN** token went through changes explained in [this blog post](https://medium.com/@TheDaoDad/the-deans-list-network-state-forging-ahead-a49b0b0fef1f).
+
+- **Supply:** As of February 15th 2024 the supply has been capped at 100M by minting additional 30M tokens and burning the mint authority.
+- These extra 30 Million tokens have been allocated as follows:
+  - 15 Million tokens have been reserved for Community initiatives;
+  - 10 Million tokens have been reserved for Liquidity provision;
+  - 5 Million tokens have been reserved as a Strategic reserve;
+- 3 independent treasury wallets have been set up on the Community Treasury on Realms
+- **NFT Collection Changes:** Community decided to allocate NFTs to deserving individuals instead of selling them on an open market like they did before.

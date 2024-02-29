@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # What is the Dean's List DAO?
 
+:::warning
+
+This section content contain information from original Whitepaper whichc might not be fully up to date because of the DAO changes.
+
+:::
+
 ## THE DECLARATION
 
 Dean's list DAO is building a Digital Network State with a vision to provide prosperity & opportunity to its citizens while building templates for the future of decentralized work & collaboration. We pride ourselves as being the first “Service DAO'' on Solana. What started off as a Service DAO is now transforming into a network state.

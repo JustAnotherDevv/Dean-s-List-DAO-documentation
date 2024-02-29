@@ -4,6 +4,12 @@ sidebar_position: 2
 
 # Why Are We Building a Digital Network State?
 
+:::warning
+
+This section content contain information from original Whitepaper whichc might not be fully up to date because of the DAO changes.
+
+:::
+
 ## Service Providers
 
 The term “service provider” has become an acronym for exploitation in our day and age. Centralized intermediaries in Web2 continue to dish

@@ -4,6 +4,12 @@ sidebar_position: 7
 
 # Built on Solana For All Of Web3
 
+:::warning
+
+This section content contain information from original Whitepaper whichc might not be fully up to date because of the DAO changes.
+
+:::
+
 ## The Tools We Are Building:
 
 To streamline workflows and take them on-chain, we are currently developing a dashboard that would serve to provide real time transparency to our customers as to the progress on their purchased services while equipping our citizens with the requisite information on the available opportunities they can participate in. At the heart of this is a Wallet based sign in for our citizens and our customers, which will help propel us to greater decentralisation and automation.

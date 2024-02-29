@@ -18,6 +18,10 @@ Unlike traditional airdrop models, Dean's List DAO adopted a proactive approach 
 
 In response to challenges with the existing token infrastructure, Dean's List DAO made the strategic decision to transition to a new token. This move aimed to optimize distribution, remove volatility, and enhance control over membership requirements.
 
+## Forging Ahead
+
+During the first few weeks of 2024 the community made massive progress towards redefining and finalizing some of the governance primitives. Detailed changes are listed on [Tokenomics Page](/docs/Governance%20Framework/tokenomics-intro#tokenomics-changes).
+
 ## Resources
 
 Read more abour DAO's history so far from articles written by DeanMachine:
