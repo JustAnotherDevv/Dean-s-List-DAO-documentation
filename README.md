@@ -1,6 +1,6 @@
 # About
 
-Dean's List DAO Documentation built by [NevvDevv](https://github.com/JustAnotherDevv) during Solana hackathon.
+Old Dean's List DAO Documentation built by [NevvDevv](https://github.com/JustAnotherDevv)
 
 ## Features
 
